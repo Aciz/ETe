@@ -1,0 +1,12 @@
+set(SERVER_SRCS
+    "server/sv_bot.c"
+    "server/sv_ccmds.c"
+    "server/sv_client.c"
+    "server/sv_filter.c"
+    "server/sv_game.c"
+    "server/sv_init.c"
+    "server/sv_main.c"
+    "server/sv_net_chan.c"
+    "server/sv_snapshot.c"
+    "server/sv_world.c"
+)

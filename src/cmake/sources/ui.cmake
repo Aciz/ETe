@@ -1,0 +1,13 @@
+set(UI_SRCS
+    "ui/ui_atoms.c"
+    "ui/ui_gameinfo.c"
+    "ui/ui_loadpanel.c"
+    "ui/ui_main.c"
+    "ui/ui_shared.c"
+    "ui/ui_syscalls.c"
+    "game/bg_campaign.c"
+    "game/bg_classes.c"
+    "game/bg_misc.c"
+    "qcommon/q_math.c"
+    "qcommon/q_shared.c"
+)

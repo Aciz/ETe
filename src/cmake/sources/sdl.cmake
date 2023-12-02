@@ -1,0 +1,9 @@
+set(ET_GUI_SRCS
+    "sdl/sdl_gamma.c"
+    "sdl/sdl_glimp.c"
+    "sdl/sdl_glw.h"
+    "sdl/sdl_icon.h"
+    "sdl/sdl_input.c"
+    "sdl/sdl_snd.c"
+    "sdl/sdl_version.c"
+)

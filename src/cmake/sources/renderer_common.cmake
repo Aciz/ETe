@@ -1,0 +1,10 @@
+set(RENDERER_COMMON_SRCS
+    "renderercommon/tr_font.c"
+    "renderercommon/tr_image_bmp.c"
+    "renderercommon/tr_image_jpg.c"
+    "renderercommon/tr_image_pcx.c"
+    "renderercommon/tr_image_png.c"
+    "renderercommon/tr_image_svg.c"
+    "renderercommon/tr_image_tga.c"
+    "renderercommon/tr_noise.c"
+)
